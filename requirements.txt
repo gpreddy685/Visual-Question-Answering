@@ -1,0 +1,12 @@
+apex
+timm
+torchvision
+xformers ii
+bitsandbytes
+torch==2.1.0
+einops==0.7.0
+triton==2.1.0
+accelerate==0.24.1
+transformers==4.35.0
+sentencepiece==0.1.99
+https://pypi.org/simple/ 
